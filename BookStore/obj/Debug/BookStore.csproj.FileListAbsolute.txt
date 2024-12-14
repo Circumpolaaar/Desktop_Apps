@@ -1,0 +1,16 @@
+C:\Users\34862\Desktop\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\34862\Desktop\BookStore\bin\Debug\BookStore.exe
+C:\Users\34862\Desktop\BookStore\bin\Debug\BookStore.pdb
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.Administator.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.Bill.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.books.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.Dashboard.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.Splash.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.Users.resources
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.exe
+C:\Users\34862\Desktop\BookStore\obj\Debug\BookStore.pdb
