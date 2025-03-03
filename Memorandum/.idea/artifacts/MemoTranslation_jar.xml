@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MemoTranslation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemoTranslation_jar</output-path>
+    <root id="archive" name="MemoTranslation.jar">
+      <element id="module-output" name="MemoTranslation" />
+      <element id="module-test-output" name="MemoTranslation" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Intellij IDEA/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
